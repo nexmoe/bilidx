@@ -27,22 +27,73 @@ menu:
   - name: 摄影
     icon: far fa-star
     config: Photography
-  
+  - name: 计算机二级
+    icon: far fa-star
+    config: NationalComputerRankExamination
+  - name: 书法
+    icon: far fa-star
+    config: Calligraphy
+  - name: 软件
+    icon: far fa-star
+    config: Software
+  - name: 平面设计
+    icon: far fa-star
+    config: GraphicDesign
+  - name: 平面设计
+    icon: far fa-star
+    config: History
+
 AdvancedMathematics:
   - name: 宋浩老师官方
     url: https://space.bilibili.com/66607740
     img: /images/logos/66607740.jpg
     description: 高等数学、线性代数、考研
+  - name: 小元老师高数线代概率
+    url: https://space.bilibili.com/74434623
+    img: /images/logos/74434623.jpg
+    description: 小元老师。提供高品质、形象、趣味、透彻的数学课程。
+  - name: 高数叔的百宝箱
+    url: https://space.bilibili.com/408433491
+    img: /images/logos/408433491.jpg
+    description: 
 
 English:
   - name: A路人
     url: https://space.bilibili.com/391679
     img: /images/logos/391679.jpg
-    description: 《洋屁教室》系列视频，幽默搞笑英语UP主
+    description: 英语语法学习、《洋屁教室》系列视频，幽默搞笑英语UP主
   - name: 口语老炮儿马思瑞
     url: https://space.bilibili.com/24801003
     img: /images/logos/24801003.jpg
     description: 明星口语分析、中西文化差异、英语教学
+  - name: 一起暴击口语
+    url: https://space.bilibili.com/433248184
+    img: /images/logos/433248184.jpg
+    description: 用心教英语，认真做教育。
+  - name: 英国小克里
+    url: https://space.bilibili.com/37398761
+    img: /images/logos/37398761.jpg
+    description: 剑桥大学中文系，国际同声传译
+  - name: FanfaniShare
+    url: https://space.bilibili.com/346396741
+    img: /images/logos/346396741.jpg
+    description: 英语发音学习、在美国高校教英语的英语干货铺老板娘
+  - name: 英语老师Lee
+    url: https://space.bilibili.com/131058159
+    img: /images/logos/131058159.jpg
+    description: 英语发音学习、原美国薇诺娜高中英语教师，教授美国学生英语课程；原美国德拉塞尔语言学院学术写作教师。
+  - name: Real麦克老师
+    url: https://space.bilibili.com/19859602
+    img: /images/logos/19859602.jpg
+    description: 英语单词学习、有趣！有料！你的贴身外教！
+  - name: 早安英文
+    url: https://space.bilibili.com/35636660
+    img: /images/logos/35636660.jpg
+    description: 英语单词学习、学口语，就来早安英文！
+  - name: 张富贵的英语世界
+    url: https://space.bilibili.com/401727458
+    img: /images/logos/401727458.jpg
+    description: 英语单词学习、ZJUerPhD/大学英语老师
   - name: 圣诞节南瓜灯
     url: https://space.bilibili.com/319176130
     img: /images/logos/319176130.jpg
@@ -52,6 +103,36 @@ English:
     img: /images/logos/27792668.jpg
     description: CC字幕视频分享者，赋闲在家的同传
 
+Software: 
+  - name: doyoudo
+    url: https://space.bilibili.com/20503549
+    img: /images/logos/20503549.jpg
+    description: PS 、AI 、AE 、PR 、AU 、Id 、C4D 、Final Cut Pro 、Snapseed
+  - name: 老秦PPT
+    url: https://space.bilibili.com/491456841
+    img: /images/logos/491456841.jpg
+    description: 源于PPT，不止PPT。
+  - name: 拉小登Excel
+    url: https://space.bilibili.com/400511102
+    img: /images/logos/400511102.jpg
+    description: 好的表格是设计出来的
+  - name: oeasy
+    url: https://space.bilibili.com/2884629
+    img: /images/logos/2884629.jpg
+    description: 你想学的软件这几乎都有
+  - name: 星月兮
+    url: https://space.bilibili.com/17638509
+    img: /images/logos/17638509.jpg
+    description: 
+  - name: 我是于干
+    url: https://space.bilibili.com/69743276
+    img: /images/logos/69743276.jpg
+    description: PS、AE、AU
+  - name: 一周进步
+    url: https://space.bilibili.com/308552985
+    img: /images/logos/308552985.jpg
+    description: 软件、网页、APP安利、各类软件教程，这个UP的平面设计不错
+
 Law:
   - name: 罗翔说刑法
     url: https://space.bilibili.com/517327498
@@ -60,18 +141,67 @@ Law:
 
 Photography:
   - name: 影视飓风
-    url: https://space.bilibili.com/517327498
-    img: /images/logos/517327498.jpg
-    description: 致力于用最佳的视频质量来与观众分享最为前沿，有趣的科技产品体验。
+    url: https://space.bilibili.com/946974
+    img: /images/logos/946974.jpg
+    description: 器材评测、拍摄制作技巧
   - name: 庄子HD
     url: https://space.bilibili.com/361556391
     img: /images/logos/361556391.jpg
     description: 拍摄技巧、拍摄模仿
+  - name: 视频大拍档
+    url: https://space.bilibili.com/110974
+    img: /images/logos/110974.jpg
+    description: Vlog制作教程、剪辑视频、运镜、摄影手法。
+  - name: 左手plus
+    url: https://space.bilibili.com/20166755
+    img: /images/logos/20166755.jpg
+    description: 摄影知识、器材挑选、拍摄技巧
+  - name: 二麦科技
+    url: https://space.bilibili.com/86566982
+    img: /images/logos/86566982.jpg
+    description: 拍照、视频、创作过程、构图技巧
+  - name: 深夜君-深夜摄影教室
+    url: https://space.bilibili.com/57855066
+    img: /images/logos/57855066.jpg
+    description: 后期调色、摄影技巧、照片修图
+    - name: 极地手记
+    url: https://space.bilibili.com/6314588
+    img: /images/logos/6314588.jpg
+    description: Vlog 教学
 
-about:
-  url: https://sspai.com/post/39683
-  icon: far fa-heart
-  name: CC字幕是什么？
+NationalComputerRankExamination:
+  - name: 小黑课堂计算机二级
+    url: https://space.bilibili.com/48133212
+    img: /images/logos/48133212.jpg
+    description: 
+
+Calligraphy: 
+  - name: 一笔落尘
+    url: https://space.bilibili.com/147071622
+    img: /images/logos/147071622.jpg
+    description: 用笔为浮躁的心带来一缕清流。b站的小伙伴们一起来练字吧！
+
+GraphicDesign:
+  - name: 优设基础训练营
+    url: https://space.bilibili.com/39990344
+    img: /images/logos/39990344.jpg
+    description: 优设旗下教育机构
+  - name: oooooohmygosh
+    url: https://space.bilibili.com/38053181
+    img: /images/logos/38053181.jpg
+    description: 提高审美，适合所有人
+
+History:
+  - name: 御史房
+    url: https://space.bilibili.com/34264408
+    img: /images/logos/34264408.jpg
+    description: 中国历史为、X分钟看懂历史事件、人物遭遇
+
+
+#about:
+#  url: https://sspai.com/post/39683
+#  icon: far fa-heart
+#  name: CC字幕是什么？
 
 aboutPage:
   website:
