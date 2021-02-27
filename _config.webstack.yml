@@ -33,7 +33,7 @@ menu:
   - name: 书法
     icon: far fa-star
     config: Calligraphy
-  - name: 软件
+  - name: 软件应用
     icon: far fa-star
     config: Software
   - name: 平面设计
