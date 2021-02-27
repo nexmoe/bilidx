@@ -39,7 +39,7 @@ menu:
   - name: 平面设计
     icon: far fa-star
     config: GraphicDesign
-  - name: 平面设计
+  - name: 历史
     icon: far fa-star
     config: History
 
