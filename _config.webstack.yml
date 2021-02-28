@@ -1,10 +1,10 @@
-favicon: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/favicon.ico
-banner: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/webstack_banner_cn.png
+favicon: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/favicon.ico
+banner: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/webstack_banner_cn.png
 
 logo:
-  expanded: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logo@2x.png
-  collapsed: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logo-collapsed@2x.png
-  dark: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logo_dark@2x.png
+  expanded: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo@2x.png
+  collapsed: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo-collapsed@2x.png
+  dark: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -49,173 +49,173 @@ menu:
 AdvancedMathematics:
   - name: 宋浩老师官方
     url: https://space.bilibili.com/66607740
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/66607740.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/66607740.jpg
     description: 高等数学、线性代数、考研
   - name: 小元老师高数线代概率
     url: https://space.bilibili.com/74434623
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/74434623.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/74434623.jpg
     description: 提供高品质、形象、趣味、透彻的数学课程。
   - name: 高数叔的百宝箱
     url: https://space.bilibili.com/408433491
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/408433491.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/408433491.jpg
     description: 
 
 English:
   - name: A路人
     url: https://space.bilibili.com/391679
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/391679.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/391679.jpg
     description: 英语语法学习、《洋屁教室》系列视频，幽默搞笑英语UP主
   - name: 口语老炮儿马思瑞
     url: https://space.bilibili.com/24801003
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/24801003.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/24801003.jpg
     description: 明星口语分析、中西文化差异、英语教学
   - name: 一起暴击口语
     url: https://space.bilibili.com/433248184
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/433248184.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/433248184.jpg
     description: 用心教英语，认真做教育。
   - name: 英国小克里
     url: https://space.bilibili.com/37398761
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/37398761.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/37398761.jpg
     description: 剑桥大学中文系，国际同声传译
   - name: FanfaniShare
     url: https://space.bilibili.com/346396741
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/346396741.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/346396741.jpg
     description: 英语发音学习、在美国高校教英语的英语干货铺老板娘
   - name: 英语老师Lee
     url: https://space.bilibili.com/131058159
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/131058159.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/131058159.jpg
     description: 英语发音学习、原美国薇诺娜高中英语教师，教授美国学生英语课程；原美国德拉塞尔语言学院学术写作教师。
   - name: Real麦克老师
     url: https://space.bilibili.com/19859602
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/19859602.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/19859602.jpg
     description: 英语单词学习、有趣！有料！你的贴身外教！
   - name: 早安英文
     url: https://space.bilibili.com/35636660
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/35636660.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/35636660.jpg
     description: 英语单词学习、学口语，就来早安英文！
   - name: 张富贵的英语世界
     url: https://space.bilibili.com/401727458
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/401727458.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/401727458.jpg
     description: 英语单词学习、ZJUerPhD/大学英语老师
   - name: 圣诞节南瓜灯
     url: https://space.bilibili.com/319176130
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/319176130.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/319176130.jpg
     description: CC字幕视频分享者，分享有价值的英语学习资源。
   - name: AJ传译君
     url: https://space.bilibili.com/27792668
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/27792668.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/27792668.jpg
     description: CC字幕视频分享者，赋闲在家的同传
 
 Software: 
   - name: doyoudo
     url: https://space.bilibili.com/20503549
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/20503549.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/20503549.jpg
     description: PS 、AI 、AE 、PR 、AU 、Id 、C4D 、Final Cut Pro 、Snapseed
   - name: 老秦PPT
     url: https://space.bilibili.com/491456841
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/491456841.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/491456841.jpg
     description: 源于PPT，不止PPT。
   - name: 拉小登Excel
     url: https://space.bilibili.com/400511102
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/400511102.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/400511102.jpg
     description: 好的表格是设计出来的
   - name: oeasy
     url: https://space.bilibili.com/2884629
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/2884629.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/2884629.jpg
     description: 你想学的软件这几乎都有
   - name: 星月兮
     url: https://space.bilibili.com/17638509
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/17638509.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/17638509.jpg
     description: 
   - name: 我是于干
     url: https://space.bilibili.com/69743276
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/69743276.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/69743276.jpg
     description: PS、AE、AU
   - name: 一周进步
     url: https://space.bilibili.com/308552985
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/308552985.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/308552985.jpg
     description: 软件、网页、APP安利、各类软件教程，这个UP的设计审美不错
 
 Law:
   - name: 罗翔说刑法
     url: https://space.bilibili.com/517327498
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/517327498.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/517327498.jpg
     description: 厚大法考刑法独家授课老师
 
 Photography:
   - name: 影视飓风
     url: https://space.bilibili.com/946974
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/946974.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/946974.jpg
     description: 器材评测、拍摄制作技巧
   - name: 庄子HD
     url: https://space.bilibili.com/361556391
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/361556391.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/361556391.jpg
     description: 拍摄技巧、拍摄模仿
   - name: 视频大拍档
     url: https://space.bilibili.com/110974
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/110974.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/110974.jpg
     description: Vlog制作教程、剪辑视频、运镜、摄影手法。
   - name: 左手plus
     url: https://space.bilibili.com/20166755
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/20166755.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/20166755.jpg
     description: 摄影知识、器材挑选、拍摄技巧
   - name: 二麦科技
     url: https://space.bilibili.com/86566982
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/86566982.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/86566982.jpg
     description: 拍照、视频、创作过程、构图技巧
   - name: 深夜君-深夜摄影教室
     url: https://space.bilibili.com/57855066
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/57855066.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/57855066.jpg
     description: 后期调色、摄影技巧、照片修图
   - name: 极地手记
     url: https://space.bilibili.com/6314588
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/6314588.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/6314588.jpg
     description: Vlog 教学
 
 NationalComputerRankExamination:
   - name: 小黑课堂计算机二级
     url: https://space.bilibili.com/48133212
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/48133212.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/48133212.jpg
     description: 
 
 Calligraphy: 
   - name: 一笔落尘
     url: https://space.bilibili.com/147071622
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/147071622.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/147071622.jpg
     description: 用笔为浮躁的心带来一缕清流。b站的小伙伴们一起来练字吧！
 
 GraphicDesign:
   - name: 优设基础训练营
     url: https://space.bilibili.com/39990344
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/39990344.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/39990344.jpg
     description: 优设旗下教育机构
   - name: oooooohmygosh
     url: https://space.bilibili.com/38053181
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/38053181.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/38053181.jpg
     description: 提高审美，适合所有人
 
 History:
   - name: 御史房
     url: https://space.bilibili.com/34264408
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/34264408.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/34264408.jpg
     description: 中国历史为、X分钟看懂历史事件、人物遭遇
 
 PanScience: 
   - name: 混乱博物馆
     url: https://space.bilibili.com/97177641
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/97177641.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/97177641.jpg
     description: 科普各种各样的东西，历史、生物等
   - name: 毕导THU
     url: https://space.bilibili.com/254463269
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/254463269.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/254463269.jpg
     description: 各种奇怪问题的科普，视频内容十分搞笑、吸引人。
   - name: 回形针PaperClip
     url: https://space.bilibili.com/258150656
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/258150656.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/258150656.jpg
     description: 当代生活说明书，高质量动画科普开拓者
   - name: YJango
     url: https://space.bilibili.com/344849038
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/344849038.jpg
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/344849038.jpg
     description: 《学习观》作者
 
 #about:
@@ -231,7 +231,7 @@ aboutPage:
     head: 关于站长
     name: HCLonely
     url: https://blog.hclonely.com/
-    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/myblog.png
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
@@ -252,28 +252,28 @@ custom:
     <!-- 可设置多行 -->
 
 js:
-  header: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/header.js
-  footer: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/footer.js
-  jquery: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/jquery-1.11.1.min.js
-  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/bootstrap.min.js
-  TweenMax: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/TweenMax.min.js
-  resizeable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/resizeable.min.js
-  joinable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/joinable.js
-  xenonApi: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/xenon-api.min.js
-  xenonToggles: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/xenon-toggles.min.js
-  xenonCustom: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/xenon-custom.min.js
-  lozad: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/lozad.min.js
-  html5shiv: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/html5shiv.min.js
-  respond: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/js/respond.min.js
+  header: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latesthttps://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/header.js
+  footer: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/footer.js
+  jquery: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/jquery-1.11.1.min.js
+  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/bootstrap.min.js
+  TweenMax: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/TweenMax.min.js
+  resizeable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/resizeable.min.js
+  joinable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/joinable.js
+  xenonApi: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-api.min.js
+  xenonToggles: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-toggles.min.js
+  xenonCustom: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-custom.min.js
+  lozad: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/lozad.min.js
+  html5shiv: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/html5shiv.min.js
+  respond: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/hclonely.css
+  hclonely: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/bootstrap.min.css
-  xenonCore: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/xenon-core.min.css
-  xenonComponents: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/xenon-components.min.css
-  xenonSkins: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/xenon-skins.min.css
-  nav: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/css/nav.min.css
+  linecons: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/bootstrap.min.css
+  xenonCore: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-core.min.css
+  xenonComponents: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-components.min.css
+  xenonSkins: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-skins.min.css
+  nav: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/nav.min.css
