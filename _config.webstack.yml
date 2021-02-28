@@ -232,28 +232,28 @@ custom:
     <!-- 可设置多行 -->
 
 js:
-  header: /js/header.js
-  footer: /js/footer.js
-  jquery: /js/jquery-1.11.1.min.js
-  bootstrap: /js/bootstrap.min.js
-  TweenMax: /js/TweenMax.min.js
-  resizeable: /js/resizeable.min.js
-  joinable: /js/joinable.js
-  xenonApi: /js/xenon-api.min.js
-  xenonToggles: /js/xenon-toggles.min.js
-  xenonCustom: /js/xenon-custom.min.js
-  lozad: /js/lozad.min.js
-  html5shiv: /js/html5shiv.min.js
-  respond: /js/respond.min.js
+  header: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latesthttps://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/header.js
+  footer: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/footer.js
+  jquery: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/jquery-1.11.1.min.js
+  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/bootstrap.min.js
+  TweenMax: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/TweenMax.min.js
+  resizeable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/resizeable.min.js
+  joinable: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/joinable.js
+  xenonApi: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-api.min.js
+  xenonToggles: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-toggles.min.js
+  xenonCustom: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/xenon-custom.min.js
+  lozad: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/lozad.min.js
+  html5shiv: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/html5shiv.min.js
+  respond: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
-  hclonely: /css/hclonely.css
+  hclonely: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: /css/fonts/linecons/css/linecons.min.css
-  fontawesome: /css/fonts/fontawesome/css/all.min.css
-  bootstrap: /css/bootstrap.min.css
-  xenonCore: /css/xenon-core.min.css
-  xenonComponents: /css/xenon-components.min.css
-  xenonSkins: /css/xenon-skins.min.css
-  nav: /css/nav.min.css
+  linecons: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/fonts/linecons/css/linecons.min.css
+  fontawesome: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/fonts/fontawesome/css/all.min.css
+  bootstrap: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/bootstrap.min.css
+  xenonCore: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-core.min.css
+  xenonComponents: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-components.min.css
+  xenonSkins: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/xenon-skins.min.css
+  nav: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/nav.min.css
