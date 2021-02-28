@@ -42,6 +42,9 @@ menu:
   - name: 历史
     icon: far fa-star
     config: History
+  - name: 泛科普
+    icon: far fa-star
+    config: PanScience 
 
 AdvancedMathematics:
   - name: 宋浩老师官方
@@ -197,6 +200,23 @@ History:
     img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/34264408.jpg
     description: 中国历史为、X分钟看懂历史事件、人物遭遇
 
+PanScience: 
+  - name: 混乱博物馆
+    url: https://space.bilibili.com/97177641
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/97177641.jpg
+    description: 科普各种各样的东西，历史、生物等
+  - name: 毕导THU
+    url: https://space.bilibili.com/254463269
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/254463269.jpg
+    description: 各种奇怪问题的科普，视频内容十分搞笑、吸引人。
+  - name: 回形针PaperClip
+    url: https://space.bilibili.com/258150656
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/258150656.jpg
+    description: 当代生活说明书，高质量动画科普开拓者
+  - name: YJango
+    url: https://space.bilibili.com/344849038
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logos/344849038.jpg
+    description: 《学习观》作者
 
 #about:
 #  url: https://sspai.com/post/39683
