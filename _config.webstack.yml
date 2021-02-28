@@ -2,8 +2,8 @@ favicon: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/favicon.ico
 banner: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/webstack_banner_cn.png
 
 logo:
-  expanded: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo@2x.png
-  collapsed: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo-collapsed@2x.png
+  expanded: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logo@2x.png
+  collapsed: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@1.0.0/images/logo-collapsed@2x.png
   dark: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logo_dark@2x.png
 
 flag:
