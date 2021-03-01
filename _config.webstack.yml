@@ -59,6 +59,10 @@ AdvancedMathematics:
     url: https://space.bilibili.com/408433491
     img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/408433491.jpg
     description: 
+  - name: 《高等数学》同济版
+    url: https://www.bilibili.com/video/BV1Eb411u7Fw
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/BV1Eb411u7Fw.jpg
+    description: 全程教学视频（宋浩老师）
 
 English:
   - name: A路人
