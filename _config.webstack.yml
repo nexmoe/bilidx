@@ -245,7 +245,7 @@ busuanzi:
 
 custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latesthttps://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/nexmoe.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/css/nexmoe.css">
     <!-- 可设置多行 -->
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
