@@ -1,0 +1,15 @@
+.box2 .xe-user-name::after {
+    border-radius: 3px;
+    padding: 0 3px;
+    color: #fff;
+    margin-left: 2px;
+}
+.box2[data-original-title^="https://space.bilibili.com/"] .xe-user-name::after {
+    content: "UP";
+    background: #f27297;
+}
+
+.box2[data-original-title^="https://www.bilibili.com/video/"] .xe-user-name::after {
+    content: "视频";
+    background: #3aa1d7;
+}
