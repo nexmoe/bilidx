@@ -1,2 +1,2 @@
-# bilicc
-哔哩哔哩CC字幕导航
+# Github Pages
+https://github.com/nexmoe/bilibilidaxue
