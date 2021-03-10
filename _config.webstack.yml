@@ -175,6 +175,14 @@ Photography:
     url: https://space.bilibili.com/6314588
     img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/6314588.jpg
     description: Vlog 教学
+  - name: 摄玄师
+    url: https://space.bilibili.com/41385365
+    img: /images/logos/41385365.jpg
+    description: 摄影影视
+  - name: 创意摄影师Jordi
+    url: https://space.bilibili.com/1985428914
+    img: /images/logos/1985428914.jpg
+    description: 西班牙的创意摄影师
 
 NationalComputerRankExamination:
   - name: 小黑课堂计算机二级
