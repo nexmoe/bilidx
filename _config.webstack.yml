@@ -27,24 +27,37 @@ menu:
   - name: 历史
     icon: far fa-star
     config: History
+  - name: 烹饪
+    icon: far fa-star
+    config: Cooking
   - name: 平面设计
     icon: far fa-star
     config: GraphicDesign
   - name: 软件应用
     icon: far fa-star
     config: Software
+  - name: 商业
+    icon: far fa-star
+    config: Commerce
   - name: 摄影
     icon: far fa-star
     config: Photography
+  - name: 手工
+    icon: far fa-star
+    config: Handwork
   - name: 书法
     icon: far fa-star
     config: Calligraphy
+  - name: 数码
+    icon: far fa-star
+    config: Digital
   - name: 数学
     icon: far fa-star
     config: AdvancedMathematics
   - name: 英语
     icon: far fa-star
     config: English
+
 
 AdvancedMathematics:
   - name: 宋浩老师官方
@@ -205,6 +218,10 @@ GraphicDesign:
     url: https://space.bilibili.com/38053181
     img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/38053181.jpg
     description: 提高审美，适合所有人
+  - name: 设计师深海
+    url: https://space.bilibili.com/7212583
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/7212583.jpg
+    description: AE、C4D、动画
 
 History:
   - name: 御史房
@@ -229,6 +246,38 @@ PanScience:
     url: https://space.bilibili.com/344849038
     img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/344849038.jpg
     description: 《学习观》作者
+
+Cooking:
+  - name: 不点外卖先森
+    url: https://space.bilibili.com/3811052
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/3811052.jpg
+    description: 有我，你就别点外卖了！
+  - name: 马壮实Hera
+    url: https://space.bilibili.com/17546432
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/17546432.jpg
+    description: 不务正业的法餐厨子
+  - name: 美食作家王刚R
+    url: https://space.bilibili.com/290526283
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/290526283.jpg
+    description: （线上很强大的家常菜教学之一）提升国民对美食的认知、追求
+
+Digital: 
+  - name: 极客湾Geekerwan
+    url: https://space.bilibili.com/25876945
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/25876945.jpg
+    description: 爱折腾、超硬核的科技数码频道！
+
+Commerce: 
+  - name: 营创实验室
+    url: https://space.bilibili.com/94510204
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/94510204.jpg
+    description: 年轻人的商学院。
+
+Handwork: 
+  - name: DIY-Perks
+    url: https://space.bilibili.com/623512391
+    img: https://cdn.jsdelivr.net/gh/nexmoe/bilibilidaxue@latest/images/logos/623512391.jpg
+    description: 硬核 DIY
 
 #about:
 #  url: https://sspai.com/post/39683
